@@ -1,0 +1,16 @@
+{
+    "spellchecker.language": "en_US",
+    "spellchecker.ignoreWordsList": [
+        "screenshot",
+        "toolbar",
+        "TODO"
+    ],
+    "spellchecker.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "spellchecker.ignoreRegExp": [],
+    "spellchecker.ignoreFileExtensions": [],
+    "spellchecker.checkInterval": 5000
+}
